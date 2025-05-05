@@ -1,0 +1,11 @@
+.method1 {
+    font-size: 3rem;
+    color: red;
+    text-decoration: underline;
+}
+
+.method2 {
+    font-size: 3rem;
+    color: blue;
+    text-decoration: overline;
+}
